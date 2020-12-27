@@ -1,3 +1,5 @@
+### T.Kalvintech Is A Technology Company That Is The Future Of Technology, AI And Software Development.
+
 ### Hi there, I'm Kalvin (member of T.Kalvintech) 👋
 
 ### I'm a Self-taught 15-year-old Python Developer, Software Engineer, Computer Scientist, and Web Developer!
@@ -5,10 +7,6 @@
 - 🚀 👨‍🚀 I'm currently learning how to launch a model rocket using TVC and an Arduino as the flight computer. 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
 - 👨‍🎓 When I'm older, I would like to either be an Aerospace Engineer, Rocket Scientist or a Programmer.
-
-
-### T.Kalvintech Is A Technology Company That Is The Future Of Technology, AI And Software Development.
-
 
 <br />
 ### Languages And Tools That I Use:
