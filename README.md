@@ -1,12 +1,12 @@
 ### T.Kalvintech Is A Technology Company That Is The Future Of Technology, AI And Software Development.
 
-### Hi there, I'm T.Kalv (member of T.Kalvintech) 👋
+### Hi there, I'm T.Kalv 👋
 
-### I'm a Self-taught 16-year-old Python Developer, Software Engineer, Computer Scientist, and Web Developer!
-- 😫 I'm currently working on a Python Music Quiz.
+### I'm a self-taught 16-year-old Python Developer, Software Engineer, Computer Scientist, and Web Developer!
+- 😫 I'm currently learning how to program in C#.
 - 🚀 👨‍🚀 I'm currently learning how to launch a model rocket using TVC and an Arduino as the flight computer. 
 - 🧠 Fun Fact: I like to learn anything CS, Science and Technology related.
-- 👨‍🎓 When I'm older, I would like to either be an Aerospace Engineer, Rocket Scientist or a Programmer.
+- 👨‍🎓 When I'm older, I would like to either become an Aerospace Engineer, Rocket Scientist or a Programmer.
 <br />
 
 ### Languages And Tools That I Use:
@@ -20,9 +20,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
-
-
-
+[<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/.net/.net.png" />][.NET]
 <br />
 
 ---
@@ -41,3 +39,4 @@
 [HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [CSS3]: https://developer.mozilla.org/en-US/docs/Archive/CSS3
 [C]: https://www.w3schools.in/c-tutorial/
+[.NET]: https://dotnet.microsoft.com/en-us/
