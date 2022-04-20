@@ -1,4 +1,4 @@
-### T.Kalvintech Is A Mock-Up Tech Startup (That Is Not A Real Company) That Is The Future Of Technology, AI And Software Development created by T.Kalv https://github.com/T-Kalv.
+### T.Kalvintech Is A Mock-Up Tech Startup (Not A Real Company) That Is The Future Of Technology, AI And Software Development created by T.Kalv https://github.com/T-Kalv.
 
 ### Hi there, I'm T.Kalv 👋
 
